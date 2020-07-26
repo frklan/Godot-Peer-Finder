@@ -8,6 +8,10 @@ Godot-Peer-Finder is a script that finds other instances on the same subnet by s
 - Autoload the ´´´PeerFinder.gd´´´script in Godot (i.e. Project Settings -> Autoload)
 - At a minimum, connect to the ```peer_found```and ```peer_lost``` signals, then call PeerFinder.start()
 
+## Example
+
+See [https://github.com/frklan/Godot-Peer-Finder-Demo](https://github.com/frklan/Godot-Peer-Finder-Demo)
+
 ## Documentation
 
 ### Methods
